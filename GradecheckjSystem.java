@@ -119,4 +119,5 @@ public class GradecheckjSystem {
         JOptionPane.showMessageDialog(null, "Thank you for using Group 11's grade check system!");
         System.exit(0);
     }
-}
+
+}// the end
