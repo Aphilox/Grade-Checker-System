@@ -1,2 +1,1 @@
-# Grade-Checker-System
-Checks grades for mulungushi students (Class assignment).
+Run using VS or Cmd. and exit inputing -1
